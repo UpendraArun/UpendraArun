@@ -2,7 +2,7 @@
 
 > “Every sensor tells a story. I just help it speak.”
 
-## 💡 About Me
+## 🧑‍💻 About Me
 - 🧠 Passionate about `AI, robotics, autonomous driving and systems that think and move`
 - 🔭 Currently exploring `Robotics, Reinforcement learning models, VLAMs`
 - 🤝 Open to collaborations on `innovative tech projects`
